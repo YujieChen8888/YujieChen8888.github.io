@@ -9,6 +9,7 @@
 title                    : "Yujie Chen (陈雨节)"
 description: "Undergraduate Student @ Dongbei University of Finance and Economics\n   \nMajoring in Economics and Statistics"
 repository               : "myqiaozhi/YujieChen.github.io"
+baseurl                  : "/YujieChen.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yujie Chen"
-  avatar           : "images/Yujiechen_image.jpg"
+  avatar           : "/images/Yujiechen_image.jpg"
   bio              : 
   location         : "Dalian, China"
   employer         :

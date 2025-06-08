@@ -19,7 +19,7 @@ redirect_from:
 
 ### **About Me**  
 
-Hello! I'm Yujie Chen (陈宇杰), an undergraduate student majoring in Economics and Statistics at Dongbei University of Finance and Economics, expected to graduate in 2026. 
+Hello! I'm Yujie Chen (陈雨节), an undergraduate student majoring in Economics and Statistics at Dongbei University of Finance and Economics, expected to graduate in 2026. 
 
 My research interests lie in **Deep learning**, **multi-task learning**, and **ensemble learning**, focusing on their innovation and application in energy systems and financial markets.
 

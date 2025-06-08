@@ -24,6 +24,7 @@ Hello! I'm Yujie Chen (陈雨节), an undergraduate student majoring in Economic
 My research interests lie in **Deep learning**, **multi-task learning**, and **ensemble learning**, focusing on their innovation and application in energy systems and financial markets.
 
 <span class='anchor' id='-education'></span>
+
 # 🎓 Education
 
 - *2022.09 - 2026.07*, B.Sc. in Economics and Statistics, Dongbei University of Finance and Economics (DUFE), Dalian.
@@ -31,12 +32,14 @@ My research interests lie in **Deep learning**, **multi-task learning**, and **e
   - **Core Courses**: Time Series Analysis (99), Multimodal Data Analysis (100), Python Programming (100), Probability Theory (98), Probability and Mathematical Statistics (95), Linear Algebra (94)
 
 <span class='anchor' id='-research-experience'></span>
+
 # 💼 Research Experience
 
 - *2023.09 - 2026.07*, Research Team Member, Key Laboratory of Big Data Management, Optimization and Decision, **Dongbei University of Finance and Economics**.
 - *2023.09 - 2026.07*, Vice President, **Yixing Association**, Dongbei University of Finance and Economics.
 
 <span class='anchor' id='-publication'></span>
+
 # 📜 Publication
 
 **2025**
@@ -48,8 +51,8 @@ My research interests lie in **Deep learning**, **multi-task learning**, and **e
 
 - Guangyu Wang, **Yujie Chen (co-first author)**, Ming Gao*, Jingmin An, Zhiqiao Wu, Jiafu Tang, and Bowei Chen. **TTVSI: A Heterogeneous Mixture of Experts Model for Traffic Speed Prediction**. *Information Fusion*. (Under Review). (JCR: Q1, IF: 14.8)
 
-
 <span class='anchor' id='-research-projects'></span>
+
 # 🔬 Research Projects
 
 ## 1. Enhancing Photovoltaic Power Forecasting Accuracy through Nonlinear Weather Correction Based on Multi-Task Learning
@@ -90,6 +93,7 @@ My research interests lie in **Deep learning**, **multi-task learning**, and **e
 - **Under Review** in **Information Fusion**.
 
 <span class='anchor' id='-others'></span>
+
 # 🌟 Others
 
 🥇 **Awards**🥈🥉🏅🎖️

@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "qiwei liang (梁棋炜)"
-description: "Undergraduate Student @ Shenzhen University\n   \nMajoring in Robotics Engineering"
-repository               : "kolakivy.github.io"
+title                    : "Yujie Chen (陈雨节)"
+description: "Undergraduate Student @ Dongbei University of Finance and Economics\n   \nMajoring in Economics and Statistics"
+repository               : "YujieChen.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qiwei Liang"
-  avatar           : "images/kivy_head.png"
+  name             : "Yujie Chen"
+  avatar           : "images/Yujiechen_image.jpg"
   bio              : 
-  location         : "Shenzhen, China"
+  location         : "Dalian, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.sg/citations?user=1W24GsQAAAAJ&hl=en"
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "KolaKivy"
+  github           : "YujieChen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Qiwei Liang"
+  linkedin         : "Yujie Chen"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

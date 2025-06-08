@@ -19,103 +19,97 @@ redirect_from:
 
 ### **About Me**  
 
-Hello! I'm Qiwei Liang (梁棋炜), a senior undergraduate student majoring in Robotics Engineering at Shenzhen University, expected to graduate in July 2026. Currently, I am conducting research at the Institute of Artificial Intelligence, Shenzhen MSU-BIT University, under the supervision of [Runhao Zeng](https://scholar.google.com.sg/citations?user=s3X4YHwAAAAJ&hl=en).  
+Hello! I'm Yujie Chen (陈宇杰), an undergraduate student majoring in Economics and Statistics at Dongbei University of Finance and Economics, expected to graduate in 2026. 
 
-Before diving into research, I was an IoT enthusiast dedicated to developing IoT products with the goal of improving people's lives. I was also the **national champion**, of the China Collegiate IoT Design Competition.  
-
-My research interests lie in **Embodied AI**, particularly in **Robotic Manipulation** (VLA, LLM, RL), **3D Scene Understanding**, and **Whole-Body Control**. Fundamentally, my work revolves around **infusing intelligence into machines**.  
+My research interests lie in **Deep learning**, **multi-task learning**, and **ensemble learning**, focusing on their innovation and application in energy systems and financial markets.
 
 # 🎓 Education
 
-- *2022.09 - Now*, B.Eng. in Robotics Engineering, Shenzhen University (SZU), Shenzhen.
+- *2022.09 - 2026.07*, B.Sc. in Economics and Statistics, Dongbei University of Finance and Economics (DUFE), Dalian.
+  - **GPA**: 4.42/5.0, **Rank**: 1/60
+  - **Core Courses**: Time Series Analysis (99), Multimodal Data Analysis (100), Python Programming (100), Probability Theory (98), Probability and Mathematical Statistics (95), Linear Algebra (94)
 
 # 💼 Research Experience
 
-- *2024.04 - Now*, Research Intern, The Institute of Artificial Intelligence, **Shenzhen MSU-BIT University**.
-- *2025.01 - Now*, Research Intern, **MMLab@HKU** (Multimedia Laboratory, The University of Hong Kong).
-- *2023.10 - Now*, Research Intern, **National Engineering Laboratory for Big Data System Computing Technology**, Shenzhen University.
+- *2023.09 - 2026.07*, Research Team Member, Key Laboratory of Big Data Management, Optimization and Decision, **Dongbei University of Finance and Economics**.
+- *2023.09 - 2026.07*, Vice President, **Yixing Association**, Dongbei University of Finance and Economics.
 
 # 📜 Publication
 
 **2025**
-- WBC, (under review, Neurips 2025)
-- Digital Twin, (under review, Neurips 2025)
-- Mengkang Hu, Tianxing Chen, Yude Zou, Yuheng Lei, Qiguang Chen, Ming Li, **Qiwei Liang**, Yao Mu, Hongyuan Zhang, Wenqi Shao, Ping Luo, **Text2World: Benchmarking Large Language Models for Symbolic World Model Generation**, (ICLR W 2025), [[paper]](https://openreview.net/pdf?id=dIQNOxuBay)
+- Zhirui Tian, **Yujie Chen* (co-first author)**, and Guangyu Wang. **Enhancing PV power forecasting accuracy through nonlinear weather correction based on multi-task learning**. *Applied Energy*, 386:125525, 2025. DOI: [https://doi.org/10.1016/j.apenergy.2025.125525](https://doi.org/10.1016/j.apenergy.2025.125525). (JCR: Q1, IF: 10.1)
 
-**2024**
+- **Yujie Chen** and Zhirui Tian*. **A crude oil price forecasting framework based on constraint guarantee and Pareto front shrinking strategy**. *Applied Soft Computing*, 112996, 2025. DOI: [https://doi.org/10.1016/j.asoc.2025.112996](https://doi.org/10.1016/j.asoc.2025.112996). (JCR: Q1, IF: 7.2)
 
-- **Qiwei Liang**, Rulin Zhou, Yijing Zhou, Guankun Wang, XiaopinZhong, **STAR: Empowering Semi-Supervised Medical Image Segmentation with SAM-based Teacher-Student Architecture and Contrastive Consistency Regularization**, (under review, 中科院一区TOP, IF>7.5)
-- Changxin Huang, **Qiwei Liang**, Jingzhao Xu, Hui Li, Xiping Hu, Runhao Zeng, Victor C. M. Leung, Junfa Mao, Jianqiang Li, **Video2Reward++: Advancing Robot Skill Acquisition via Video-guided Reward Generation**, (under review, 中科院一区TOP, IF>20)
-- Runhao Zeng, Dingjie Zhou, **Qiwei Liang**, Junlin Liu, Hui Li, Changxin Huang, Jianqiang Li, Xiping Hu, Fuchun Sun, **Video2Reward: Generating Reward Function from Videos for Legged Robot Behavior Learning**(**ECAI 2024**)(<span style="color:red;">**Spotlight**</span>), [[paper]](https://arxiv.org/abs/2412.05515)
-- **FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors**, (under review, CCFB), [[paper]](https://arxiv.org/abs/2504.05779)
-- **Qiwei Liang**, Yikeng Chen, Wenbiao Li, Minghao Lai, Wenjian Ni Hong Qiu, **iKnowiSee: AR Glasses with Language Learning Translation System and Identity Recognition System Built Based on Large Pre-trained Models of Language and Vision and Internet of Things Technology**(CINT 2024), [[paper]](https://link.springer.com/chapter/10.1007/978-981-97-3948-6_2)
+- **Yujie Chen**, Mingyao Jin, Zheyu Zhou, and Zhirui Tian*. **A novel ensemble learning framework based on news sentiment enhancement and multi-objective optimizer for carbon price forecasting**. *Computational Economics*, pages 1–25, 2025. DOI: [https://doi.org/10.1007/s10614-024-10828-6](https://doi.org/10.1007/s10614-024-10828-6). (JCR: Q2, IF: 1.9)
 
+- Guangyu Wang, **Yujie Chen (co-first author)**, Ming Gao*, Jingmin An, Zhiqiao Wu, Jiafu Tang, and Bowei Chen. **TTVSI: A Heterogeneous Mixture of Experts Model for Traffic Speed Prediction**. *Information Fusion*. (Under Review). (JCR: Q1, IF: 14.8)
+
+
+# 🔬 Research Projects
+
+## 1. Enhancing Photovoltaic Power Forecasting Accuracy through Nonlinear Weather Correction Based on Multi-Task Learning
+
+- **Challenge:** PV forecasting is highly sensitive to weather variables, and simple features fail to capture the complex nonlinear relationship between PV power and weather.
+- **Highlight:** 
+  - Proposed a multi-angle framework using weather variables to improve PV forecasting accuracy.
+  - Introduced a customized multi-task learning model to capture complex weather-PV interactions.
+  - Developed an MLP-based weather correction model to refine PV predictions with nonlinear interactions.
+  - Validated the model using real-world PV data from Australia, showing improved accuracy.
+- **Published** as corresponding author and co-first author in **Applied Energy**.
+
+## 2. A Crude Oil Price Forecasting Framework Based on Constraint Guarantee and Pareto Front Shrinking Strategy
+
+- **Challenge:** Multi-objective optimization methods have shown success in ensemble learning for crude oil price forecasting, but selecting solutions from the Pareto front to improve prediction accuracy remains a challenge.
+- **Highlight:** 
+  - Proposed a multi-strategy ensemble learning framework to enhance crude oil price forecasting accuracy.
+  - Introduced the Constraint Guarantee Strategy for selecting solutions from the Pareto front suitable for engineering applications.
+  - Developed a customized Pareto Front Shrinking Strategy for objectively selecting a unique solution on the Pareto front.
+- **Published** as first author in **Applied Soft Computing**.
+
+## 3. A Novel Ensemble Learning Framework Based on News Sentiment Enhancement and Multi-objective Optimizer for Carbon Price Forecasting
+
+- **Challenge:** Carbon price forecasting is influenced by news sentiment, and how to quantify sentiment and improve model robustness and accuracy using ensemble learning remains a challenge.
+- **Highlight:** 
+  - Proposed a hybrid forecasting framework combining news sentiment enhancement with multi-objective optimization to improve carbon price forecasting accuracy.
+  - Integrated NLP techniques to extract news sentiment features and incorporate them into time series prediction models.
+  - Developed a Pareto front selection mechanism with knee point strategies to enhance model robustness.
+- **Published** as first author in **Computational Economics**.
+
+## 4. Traffic Speed Prediction with Time-Varying Spatial Indistinguishability using a Mixture of Experts Model
+
+- **Challenge:** Traditional spatio-temporal forecasting models face challenges when spatial indistinguishability varies over time, complicating the prediction of traffic speed and flow.
+- **Highlight:** 
+  - Introduced a Mixture of Experts (MoE) model, TTVSI, to dynamically capture time-varying spatial indistinguishability for more accurate traffic speed prediction.
+  - Developed a time-varying metric to assess spatial indistinguishability, enabling the model to adaptively switch between sequence-centric and variable-centric approaches.
+  - Achieved significant performance improvements, with a 4.37% to 11.53% enhancement in forecasting accuracy across multiple datasets, surpassing state-of-the-art models.
+- **Under Review** in **Information Fusion**.
 
 # 🌟 Others
 
 🥇 **Awards**🥈🥉🏅🎖️
-- **Second Prize in South China Region**🥈, **National College Embedded Chip Design Competition** (全国大学生嵌入式芯片设计竞赛), Vice Team Leader, 2024
-- **Third Prize in South China Region**🥉, **National College Intelligent Vehicle Competition** (全国大学生智能车竞赛), Vice Team Leader, 2024
-- (<span style="color:red;">**National Grand Champion**</span>)🏆, **National College IoT Design Competition** (全国大学生物联网设计竞赛), Ranked 1st out of 1,992 teams, Team leader, 2023
-- **National First Prize**🥇, **National College IoT Design Competition**, Team leader, 2023
-- **First Prize in South China Region**🥇, **National College IoT Design Competition**, Team leader, 2023
-- **First Prize in South China Region**🥇, **iCAN College Innovation and Entrepreneurship Competition** (iCAN大学生创新创业大赛), Team leader, 2023
-- **Bronze Award**🥉, **"Liyuan Challenge" Entrepreneurship Track**, Team leader, 2023
-- **Second Prize**🥈, **National College E-Commerce "Innovation, Creativity, and Entrepreneurship" Challenge** (三创赛), 2023
-  
-📝 **Reviewer**
-- lEEE International conference on Multimedia&Expo 2025 (IEEE ICME) - *'25*
+- **National First Prize**🥇, **National Mathematical Modeling Contest for College Students**, Team Leader
+- **M Award**🏅, **Mathematical Contest in Modeling (MCM)**, Team Leader
+- **National First Prize**🥇, **National Statistical Modeling Contest for College Students**, Team Leader
+- **National First Prize**🥇, **Dongfang Caifu Cup National Financial Contest for College Students**
+- **National Third Prize**🥉, **China International College Students Innovation and Entrepreneurship Competition**
+- **National Project Grant**🏅, **College Student Innovation and Entrepreneurship Project**
+- **Third Prize**🥉, **Challenge Cup Liaoning Province College Student Entrepreneurship Plan Contest**
 
 💸 **Scholarships**
-- **Second Prize in the Public Welfare Star Competition**, (2024), [2000 CNY] 
-- **Huawei Cup Grand Championship Prize**, (2023), [<span style="color:red;">**20000 CNY**</span>]
-- **Huawei Scholarship**, (2023), [5000 CNY]
-- **First Prize in the Innovation and Entrepreneurship Star**, (2023), [3000 CNY] 
-- **Third Prize in the Academic Star Competition**, (2023), [1000 CNY] 
+- **National Scholarship** (2024)
+- **National Inspirational Scholarship** (2023)
+- **First-Class Comprehensive Scholarship from University**
 
-🧙‍♂️ **Leadership Experience**
-- **Vice President**, **AutoLeaders Club, Shenzhen University** (深圳大学AutoLeaders俱乐部 副会长), 2023-2024
-- **Leader**, **Baidu PaddlePaddle Pioneer Group**, (百度飞桨领航团团长), 2023-2024
-- **Leader**, **Cultural and Entertainment Department, Student Union**, (学生会文娱部部长), 2023-2024
-- **Project Leader**, **Basic Experimental Project of the Student Innovation and Development Fund**, (创新基金项目负责人), 2023-2024
-- **Project Leader**, **University Students' Innovation and Entrepreneurship Training Project**, (大创负责人), 2023-2024
+🔐 **Patents and Software Copyrights**
+- **Software Copyright** for **Multi-modal Speech Evaluation System** (Registration No.: 2022SR0827021)
+- **Software Copyright** for **Real-time Speech Dialogue System with Multi-source Emotion Perception Enhancement** (Registration No.: 2025SR0440280)
 
-📚 **Club**
-- **Shenzhen University AutoLeaders Club**, (AutoLeaders俱乐部), 2022.10 - Present
-- **Huawei AIeducationbase Association** (华为智能基座社团),2023.9 - Present
-- **Embodied AI Club (ROS Club)**, (ROS俱乐部), 2022.10 - Present
+💻 **Skills**
+- **Programming Languages**: Python, PyTorch, MATLAB, LaTeX
+- **English**: CET-4: 579, CET-6, Preparing for IELTS
 
-🎤 **Public Talk**
-- Speaker, invited by the **institute**, **sharing experiences on engineering studies, competitions, and research with all first-year students transitioning to their second year**, 30 min, 2024.8
 
-- Speaker, invited by the **club**, **providing training for all students participating in the IoT competition, analyzing the competition problems, and sharing experiences**, 1 hour, 2024.3
-
-🤺 **Hobby**
-- **Fencing**. I have a strong passion for fencing, and I practice sabre. I once achieved a remarkable **fourth place in the National Challenge Tournament**.
-- **Hiphop**. I am particularly fond of hip-hop music, and I love Beatbox and Rap. I enjoy creating music.
-
-🌐 **related report**
-
-[2023.08] [2023年全国大学生物联网设计竞赛全国总决赛在南京大学举行](https://www.nju.edu.cn/info/3341/337591.htm)
-
-[2023.08] [点赞！他们一个暑期悄悄拿了这么多奖](https://mp.weixin.qq.com/s/z2NMzX9Zm_z40wsDLPaDZg)
-
-# 🚀 Startup Projects
-
-Here are some of the entrepreneurial projects I have initiated. These projects reflect my passion with real-world applications to bring innovative ideas to life.
-
-### **Weshare**
-- **Project Introduction**:  
-  We strive to create a comprehensive competition exchange platform that breaks down information barriers through sharing experiences and solutions, helping participants resolve confusion and improve their chances of winning.
-- **Co-founders**: Qiwei Liang, [Tao Lin](https://lintao.online), Yihao Hu.
-- **Website**: [project-website.com](https://weshare.xin/)
-- **Xiaohongshu**: [View on Xiaohongshu](https://www.xiaohongshu.com/user/profile/65cdf2de0000000005033e2b)
-- **Logo**:  
-  <img src="../images/weshare_logo.png" alt="Project Logo" width="300"/>
-
-### **七味具身**
-- **Project Introduction**:  
-  The project is coming soon.
 
 ---
 

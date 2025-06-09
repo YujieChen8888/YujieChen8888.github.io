@@ -42,7 +42,7 @@ My research interests lie in **AI-based methods** for power systems forecasting,
 
 # 📜 Publication
 
-*Note: The asterisk (*) after author names indicates the corresponding author.*
+*Note: The asterisk (\*) after author names indicates the corresponding author.*
 
 **2025**
 - Zhirui Tian, **Yujie Chen\*** (co-first author), and Guangyu Wang. **Enhancing PV power forecasting accuracy through nonlinear weather correction based on multi-task learning**. *Applied Energy*, 386:125525, 2025. DOI: [https://doi.org/10.1016/j.apenergy.2025.125525](https://doi.org/10.1016/j.apenergy.2025.125525). (JCR: Q1, IF: 10.1)

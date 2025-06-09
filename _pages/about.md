@@ -42,14 +42,16 @@ My research interests lie in **Deep learning**, **multi-task learning**, and **e
 
 # 📜 Publication
 
+*Note: The asterisk (*) after author names indicates the corresponding author.*
+
 **2025**
-- Zhirui Tian, **Yujie Chen* (co-first author)**, and Guangyu Wang. **Enhancing PV power forecasting accuracy through nonlinear weather correction based on multi-task learning**. *Applied Energy*, 386:125525, 2025. DOI: [https://doi.org/10.1016/j.apenergy.2025.125525](https://doi.org/10.1016/j.apenergy.2025.125525). (JCR: Q1, IF: 10.1)
+- Zhirui Tian, **Yujie Chen\*** (co-first author), and Guangyu Wang. **Enhancing PV power forecasting accuracy through nonlinear weather correction based on multi-task learning**. *Applied Energy*, 386:125525, 2025. DOI: [https://doi.org/10.1016/j.apenergy.2025.125525](https://doi.org/10.1016/j.apenergy.2025.125525). (JCR: Q1, IF: 10.1)
 
-- **Yujie Chen** and Zhirui Tian*. **A crude oil price forecasting framework based on constraint guarantee and Pareto front shrinking strategy**. *Applied Soft Computing*, 112996, 2025. DOI: [https://doi.org/10.1016/j.asoc.2025.112996](https://doi.org/10.1016/j.asoc.2025.112996). (JCR: Q1, IF: 7.2)
+- **Yujie Chen** and Zhirui Tian\*. **A crude oil price forecasting framework based on constraint guarantee and Pareto front shrinking strategy**. *Applied Soft Computing*, 112996, 2025. DOI: [https://doi.org/10.1016/j.asoc.2025.112996](https://doi.org/10.1016/j.asoc.2025.112996). (JCR: Q1, IF: 7.2)
 
-- **Yujie Chen**, Mingyao Jin, Zheyu Zhou, and Zhirui Tian*. **A novel ensemble learning framework based on news sentiment enhancement and multi-objective optimizer for carbon price forecasting**. *Computational Economics*, pages 1–25, 2025. DOI: [https://doi.org/10.1007/s10614-024-10828-6](https://doi.org/10.1007/s10614-024-10828-6). (JCR: Q2, IF: 1.9)
+- **Yujie Chen**, Mingyao Jin, Zheyu Zhou, and Zhirui Tian\*. **A novel ensemble learning framework based on news sentiment enhancement and multi-objective optimizer for carbon price forecasting**. *Computational Economics*, pages 1–25, 2025. DOI: [https://doi.org/10.1007/s10614-024-10828-6](https://doi.org/10.1007/s10614-024-10828-6). (JCR: Q2, IF: 1.9)
 
-- Guangyu Wang, **Yujie Chen (co-first author)**, Ming Gao*, Jingmin An, Zhiqiao Wu, Jiafu Tang, and Bowei Chen. **TTVSI: A Heterogeneous Mixture of Experts Model for Traffic Speed Prediction**. *Information Fusion*. (Under Review). (JCR: Q1, IF: 14.8)
+- Guangyu Wang, **Yujie Chen** (co-first author), Ming Gao\*, Jingmin An, Zhiqiao Wu, Jiafu Tang, and Bowei Chen. **TTVSI: A Heterogeneous Mixture of Experts Model for Traffic Speed Prediction**. *Information Fusion*. (Under Review). (JCR: Q1, IF: 14.8)
 
 <span class='anchor' id='-research-projects'></span>
 

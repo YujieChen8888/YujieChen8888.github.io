@@ -21,7 +21,7 @@ redirect_from:
 
 Hello! I'm Yujie Chen (陈雨节), an undergraduate student majoring in Economics and Statistics at Dongbei University of Finance and Economics, expected to graduate in 2026. 
 
-My research interests lie in **Deep learning**, **multi-task learning**, and **ensemble learning**, focusing on their innovation and application in energy systems and financial markets.
+My research interests lie in **AI-based methods** for power systems forecasting, with a vision to develop innovative and reliable forecasting models that can enhance downstream applications such as optimization, control, and electricity market operations in modern power systems.
 
 <span class='anchor' id='-education'></span>
 

@@ -51,7 +51,7 @@ My research interests lie in **AI-based methods** for power systems forecasting,
 
 - **Yujie Chen**, Mingyao Jin, Zheyu Zhou, and Zhirui Tian\*. **A novel ensemble learning framework based on news sentiment enhancement and multi-objective optimizer for carbon price forecasting**. *Computational Economics*, pages 1–25, 2025. DOI: [https://doi.org/10.1007/s10614-024-10828-6](https://doi.org/10.1007/s10614-024-10828-6). (JCR: Q2, IF: 1.9)
 
-- Guangyu Wang, **Yujie Chen** (co-first author), Ming Gao\*, Jingmin An, Zhiqiao Wu, Jiafu Tang, and Bowei Chen. **TTVSI: A Heterogeneous Mixture of Experts Model for Traffic Speed Prediction**. *Information Fusion*. (Under Review). (JCR: Q1, IF: 14.8)
+
 
 <span class='anchor' id='-research-projects'></span>
 

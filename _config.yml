@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Yujie Chen (陈雨节)"
 description: "Undergraduate Student @ Dongbei University of Finance and Economics\n   \nMajoring in Economics and Statistics"
-repository               : "myqiaozhi/YujieChen.github.io"
-baseurl                  : "/YujieChen.github.io"
+repository               : "YujieChen8888/YujieChen8888.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "myqiaozhi"
+  github           : "YujieChen8888"
   google_plus      :
   keybase          :
   instagram        :

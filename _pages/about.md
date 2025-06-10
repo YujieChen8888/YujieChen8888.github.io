@@ -85,14 +85,6 @@ My research interests lie in **AI-based methods** for power systems forecasting,
   - Developed a Pareto front selection mechanism with knee point strategies to enhance model robustness.
 - **Published** as first author in **Computational Economics**.
 
-## 4. Traffic Speed Prediction with Time-Varying Spatial Indistinguishability using a Mixture of Experts Model
-
-- **Challenge:** Traditional spatio-temporal forecasting models face challenges when spatial indistinguishability varies over time, complicating the prediction of traffic speed and flow.
-- **Highlight:** 
-  - Introduced a Mixture of Experts (MoE) model, TTVSI, to dynamically capture time-varying spatial indistinguishability for more accurate traffic speed prediction.
-  - Developed a time-varying metric to assess spatial indistinguishability, enabling the model to adaptively switch between sequence-centric and variable-centric approaches.
-  - Achieved significant performance improvements, with a 4.37% to 11.53% enhancement in forecasting accuracy across multiple datasets, surpassing state-of-the-art models.
-- **Under Review** in **Information Fusion**.
 
 <span class='anchor' id='-others'></span>
 

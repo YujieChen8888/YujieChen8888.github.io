@@ -35,8 +35,10 @@ My research interests lie in **AI-based methods** for power systems forecasting,
 
 # 💼 Research Experience
 
-- *2023.09 - 2026.07*, Research Team Member, Key Laboratory of Big Data Management, Optimization and Decision, **Dongbei University of Finance and Economics**.
-- *2023.09 - 2026.07*, Vice President, **Yixing Association**, Dongbei University of Finance and Economics.
+- *2023.09 - 2026.07*, Research Team Member, **Key Laboratory of Big Data Management, Optimization and Decision**, Dongbei University of Finance and Economics, Dalian, Liaoning, China.
+  - Developed the bionic robot real-time dialogue system.
+- *2023.09 - 2026.07*, Vice President, **Yixing Association**, Dongbei University of Finance and Economics, Dalian, Liaoning, China.
+  - Organized and managed innovation and entrepreneurship projects.
 
 <span class='anchor' id='-publication'></span>
 

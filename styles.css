@@ -270,8 +270,10 @@ h3 {
 
 .portrait-card img {
   width: 100%;
-  aspect-ratio: 4 / 5;
-  object-fit: cover;
+  aspect-ratio: 16 / 10;
+  object-fit: contain;
+  background: #ffffff;
+  padding: 12px;
 }
 
 .portrait-card figcaption {
@@ -420,7 +422,8 @@ h3 {
 
 .paper-card-wide {
   display: grid;
-  grid-template-columns: minmax(0, 0.94fr) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 0.72fr) minmax(0, 1.28fr);
+  align-items: center;
 }
 
 .paper-card-reverse .paper-media {
@@ -430,10 +433,16 @@ h3 {
 .paper-media {
   position: relative;
   display: block;
-  min-height: 100%;
   background:
     linear-gradient(180deg, rgba(14, 19, 16, 0.06), rgba(14, 19, 16, 0.22)),
     #ebe5dc;
+}
+
+.paper-card-wide .paper-media {
+  aspect-ratio: 1.8 / 1;
+  width: 100%;
+  height: auto;
+  min-height: auto;
 }
 
 .paper-card-wide .paper-media img {
@@ -454,7 +463,7 @@ h3 {
 }
 
 .paper-grid .paper-media {
-  aspect-ratio: 16 / 10;
+  aspect-ratio: 2 / 1;
 }
 
 .paper-grid .paper-media img {

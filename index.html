@@ -12,398 +12,294 @@
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-    <div class="page-shell">
+    <div class="site-shell">
       <header class="site-header">
         <a class="brand" href="#top">Yujie Chen</a>
         <nav class="site-nav" aria-label="Primary navigation">
           <a href="#about">About</a>
-          <a href="#publications">Publications</a>
-          <a href="#experience">Experience</a>
           <a href="#education">Education</a>
+          <a href="#experience">Experience</a>
           <a href="#services">Services</a>
           <a href="#awards">Awards</a>
+          <a href="#publications">Publications</a>
         </nav>
       </header>
 
       <main id="top">
         <section id="about" class="hero">
-          <div class="hero-copy">
+          <div class="hero-main">
             <p class="eyebrow">Academic Homepage</p>
-            <h1>Forecasting systems for energy, markets, and trustworthy AI.</h1>
-            <p class="lead">
-              I am Yujie Chen (陈雨节), an incoming Ph.D. student in Computer Science at
-              The Chinese University of Hong Kong, Shenzhen, starting in Fall 2026.
-              My research sits at the intersection of energy systems, time-series
-              learning, and trustworthy AI, with recent work on photovoltaic
-              forecasting, electricity markets, crude oil prices, and LLM evaluation.
+            <h1>Yujie Chen</h1>
+            <p class="hero-subtitle">
+              Incoming Ph.D. student in Computer Science at The Chinese University
+              of Hong Kong, Shenzhen
             </p>
-            <div class="hero-links" aria-label="Profile links">
+            <p class="hero-text">
+              I work on learning-based forecasting for energy systems and markets,
+              with recent research spanning photovoltaic power forecasting,
+              electricity price forecasting, crude oil forecasting, hybrid
+              physical-data models, and trustworthy evaluation of large language
+              models.
+            </p>
+            <div class="link-row" aria-label="Profile links">
               <a href="mailto:yujiechen888@163.com">Email</a>
               <a href="https://scholar.google.com/citations?user=1W24GsQAAAAJ">Google Scholar</a>
               <a href="https://github.com/YujieChen8888">GitHub</a>
             </div>
-            <div class="hero-tags" aria-label="Research topics">
-              <span>AI for Energy</span>
-              <span>Time-Series Forecasting</span>
-              <span>Market Intelligence</span>
-              <span>Trustworthy AI</span>
-            </div>
           </div>
 
-          <div class="hero-side">
+          <aside class="hero-side">
             <figure class="portrait-card">
-              <img src="assets/img/papers/pearl-pv-modeling.png" alt="PEARL PV Modeling Framework">
-              <figcaption>
-                The PEARL PV Modeling framework: A physics-enhanced adaptive residual learning model, combining physical baselines with machine learning correction.
-              </figcaption>
+              <img src="assets/img/portrait.jpg" alt="Portrait of Yujie Chen">
             </figure>
+          </aside>
+        </section>
 
-            <div class="mini-panel">
-              <p class="mini-label">Outside Research</p>
-              <div class="mini-list">
-                <div>
-                  <span>Travel</span>
-                  <p>New places help me reset perspective and ask sharper questions.</p>
-                </div>
-                <div>
-                  <span>Singing</span>
-                  <p>Melody keeps me close to timing, language, and emotional texture.</p>
-                </div>
-                <div>
-                  <span>Fitness</span>
-                  <p>Training adds patience and rhythm to long research cycles.</p>
-                </div>
-              </div>
-            </div>
+        <section class="section-grid">
+          <div class="section-label">
+            <p>Research Interests</p>
+          </div>
+          <div class="section-content">
+            <p class="research-text">
+              Energy forecasting, time-series learning, electricity markets,
+              trustworthy AI, and hybrid physical-data modeling.
+            </p>
           </div>
         </section>
 
-        <section class="lifestyle-band" aria-label="Personal elements">
-          <article class="lifestyle-card travel">
-            <p class="card-label">Travel</p>
-            <h2>Curiosity stays mobile.</h2>
-            <p>
-              I like bringing a sense of movement into the site: clear routes, open
-              spacing, and enough air to let the work breathe.
-            </p>
-          </article>
-          <article class="lifestyle-card singing">
-            <p class="card-label">Singing</p>
-            <h2>Research also needs cadence.</h2>
-            <p>
-              The visual rhythm here stays soft and minimal, but not flat. Headlines,
-              images, and citations are paced more like a setlist than a list.
-            </p>
-          </article>
-          <article class="lifestyle-card fitness">
-            <p class="card-label">Fitness</p>
-            <h2>Discipline matters.</h2>
-            <p>
-              I prefer models and interfaces that feel structured, efficient, and
-              repeatable instead of decorative for decoration’s sake.
-            </p>
-          </article>
-        </section>
-
-        <section id="publications" class="section-block">
-          <div class="section-heading">
-            <p class="section-kicker">Selected Publications</p>
-            <h2>Each paper gets a figure, a clean citation, and one clear takeaway.</h2>
-            <p>
-              I keep the descriptions short and visual. The first two journal papers are
-              the anchor pieces, followed by three newer conference and collaborative
-              works.
-            </p>
+        <section id="education" class="section-grid">
+          <div class="section-label">
+            <p>Education</p>
           </div>
-
-          <div class="papers-layout">
-            <article class="paper-card paper-card-wide">
-              <a
-                class="paper-media"
-                href="https://doi.org/10.1016/j.apenergy.2025.125525"
-                aria-label="Open DOI for Enhancing PV power forecasting accuracy through nonlinear weather correction based on multi-task learning"
-              >
-                <img
-                  src="assets/img/papers/pv-weather-correction.png"
-                  alt="Main framework figure for PV power forecasting with weather correction and multi-task learning"
-                >
-                <span class="paper-index">01</span>
-                <span class="paper-badge">Applied Energy · 2025</span>
-              </a>
-              <div class="paper-body">
-                <h3>Enhancing PV Power Forecasting Accuracy through Nonlinear Weather Correction Based on Multi-Task Learning</h3>
-                <p class="paper-citation">
-                  Zhirui Tian, <strong>Yujie Chen*</strong> (co-first author), and Guangyu
-                  Wang. <em>Applied Energy</em>, 386:125525, 2025.
-                </p>
-                <div class="paper-tags">
-                  <span>PV Forecasting</span>
-                  <span>Multi-Task Learning</span>
-                  <span>Weather Correction</span>
-                </div>
-                <div class="paper-actions">
-                  <a href="https://doi.org/10.1016/j.apenergy.2025.125525">DOI</a>
-                </div>
-              </div>
-            </article>
-
-            <article class="paper-card paper-card-wide paper-card-reverse">
-              <a
-                class="paper-media"
-                href="https://doi.org/10.1016/j.asoc.2025.112996"
-                aria-label="Open DOI for A crude oil price forecasting framework based on constraint guarantee and Pareto front shrinking strategy"
-              >
-                <img
-                  src="assets/img/papers/crude-oil-forecasting.jpg"
-                  alt="Main framework figure for crude oil forecasting with constraint guarantee and Pareto front shrinking"
-                >
-                <span class="paper-index">02</span>
-                <span class="paper-badge">Applied Soft Computing · 2025</span>
-              </a>
-              <div class="paper-body">
-                <h3>A Crude Oil Price Forecasting Framework Based on Constraint Guarantee and Pareto Front Shrinking Strategy</h3>
-                <p class="paper-citation">
-                  <strong>Yujie Chen</strong> and Zhirui Tian*. <em>Applied Soft
-                  Computing</em>, 112996, 2025.
-                </p>
-                <div class="paper-tags">
-                  <span>Crude Oil</span>
-                  <span>Ensemble Learning</span>
-                  <span>Pareto Strategy</span>
-                </div>
-                <div class="paper-actions">
-                  <a href="https://doi.org/10.1016/j.asoc.2025.112996">DOI</a>
-                </div>
-              </div>
-            </article>
-
-            <div class="paper-grid">
-              <article class="paper-card">
-                <a
-                  class="paper-media"
-                  href="https://doi.org/10.1109/PESIM67009.2026.11438881"
-                  aria-label="Open DOI for PEARL paper"
-                >
-                  <img
-                    src="assets/img/papers/pearl-pv-modeling.png"
-                    alt="Main figure for PEARL physics-enhanced adaptive residual learning framework"
-                  >
-                  <span class="paper-index">03</span>
-                  <span class="paper-badge">IEEE PES IM · 2026</span>
-                </a>
-                <div class="paper-body">
-                  <h3>PEARL: A Physics-Enhanced Adaptive Residual Learning Framework for PV Modeling</h3>
-                  <p class="paper-citation">
-                    Yikai Lu, <strong>Yujie Chen</strong>, and Tongxin Li.
-                    <em>2026 IEEE PES International Meeting (PES IM)</em>, pp. 1-5, 2026.
-                  </p>
-                  <div class="paper-tags">
-                    <span>Hybrid Modeling</span>
-                    <span>Residual Learning</span>
-                    <span>PV Systems</span>
-                  </div>
-                  <div class="paper-actions">
-                    <a href="https://doi.org/10.1109/PESIM67009.2026.11438881">DOI</a>
-                  </div>
-                </div>
-              </article>
-
-              <article class="paper-card">
-                <div class="paper-media">
-                  <img
-                    src="assets/img/papers/prism-llm-hallucinations.png"
-                    alt="Main figure for PRISM hallucination benchmark"
-                  >
-                  <span class="paper-index">04</span>
-                  <span class="paper-badge">ACL Main Conference · 2026</span>
-                </div>
-                <div class="paper-body">
-                  <h3>PRISM: Probing Reasoning, Instruction, and Source Memory in LLM Hallucinations</h3>
-                  <p class="paper-citation">
-                    Yuhe Wu, Guangyu Wang, Yuran Chen, Jiatong Zhang, Yutong Zhang,
-                    <strong>Yujie Chen</strong>, Jiaming Shang, Guang Zhang, and Zhuang
-                    Liu. <em>ACL 2026 Main Conference</em>, 2026.
-                  </p>
-                  <div class="paper-tags">
-                    <span>LLM Evaluation</span>
-                    <span>Hallucinations</span>
-                    <span>Benchmarking</span>
-                  </div>
-                </div>
-              </article>
-
-              <article class="paper-card">
-                <a
-                  class="paper-media"
-                  href="https://arxiv.org/abs/2602.10071"
-                  aria-label="Open arXiv for electricity price forecasting review"
-                >
-                  <img
-                    src="assets/img/papers/electricity-price-review.png"
-                    alt="Main taxonomy figure for the electricity price forecasting review"
-                  >
-                  <span class="paper-index">05</span>
-                  <span class="paper-badge">EEM 2026 · Accepted</span>
-                </a>
-                <div class="paper-body">
-                  <h3>Deep Learning for Electricity Price Forecasting: A Review of Day-Ahead, Intraday, and Balancing Electricity Markets</h3>
-                  <p class="paper-citation">
-                    Runyao Yu, Derek W. Bunn, Julia Lin, Jochen Stiasny, Fabian
-                    Leimgruber, Tara Esterl, Yuchen Tao, Lianlian Qi,
-                    <strong>Yujie Chen</strong>, Wentao Wang, et al. <em>22nd International
-                    Conference on the European Energy Market (EEM 2026)</em>, accepted,
-                    2026.
-                  </p>
-                  <div class="paper-tags">
-                    <span>Review Paper</span>
-                    <span>Electricity Markets</span>
-                    <span>Indexing Pending</span>
-                  </div>
-                  <div class="paper-actions">
-                    <a href="https://arxiv.org/abs/2602.10071">arXiv</a>
-                  </div>
-                </div>
-              </article>
-            </div>
-          </div>
-        </section>
-
-        <!-- Work Experience Section -->
-        <section id="experience" class="section-block">
-          <div class="section-heading">
-            <p class="section-kicker">Work Experience</p>
-            <h2>Academic & Research Affiliations</h2>
-          </div>
-          <div class="portrait-card" style="padding: 28px;">
-            <div class="timeline">
-              <div class="timeline-item">
-                <span class="timeline-date" style="background: var(--rust);">2024.09 - Pres.</span>
-                <div>
-                  <h3>Research Assistant</h3>
-                  <p style="color: var(--ink); font-weight: 600; margin-bottom: 4px;">School of Data Science, The Chinese University of Hong Kong, Shenzhen</p>
-                  <p style="font-size: 0.95rem; color: var(--muted);">Shenzhen, China</p>
-                </div>
-              </div>
-              <div class="timeline-item">
-                <span class="timeline-date" style="background: var(--rust);">2024.08 - 2024.09</span>
-                <div>
-                  <h3>Visiting Student</h3>
-                  <p style="color: var(--ink); font-weight: 600; margin-bottom: 4px;">Medical Artificial Intelligence Lab, Westlake University</p>
-                  <p style="font-size: 0.95rem; color: var(--muted);">Hangzhou, China</p>
-                </div>
-              </div>
-              <div class="timeline-item">
-                <span class="timeline-date" style="background: var(--rust);">2023.09 - 2025.06</span>
-                <div>
-                  <h3>Team Member</h3>
-                  <p style="color: var(--ink); font-weight: 600; margin-bottom: 4px;">Key Laboratory of Big Data Management, Optimization and Decision</p>
-                  <p style="font-size: 0.95rem; color: var(--muted);">Dalian, Liaoning, China · Developed the bionic robot real-time dialogue system.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        <!-- Education Section -->
-        <section id="education" class="section-block">
-          <div class="section-heading">
-            <p class="section-kicker">Education</p>
-            <h2>Academic Foundations</h2>
-          </div>
-          <div class="portrait-card" style="padding: 28px;">
-            <div class="timeline">
+          <div class="section-content">
+            <div class="info-card">
               <div class="timeline-item">
                 <span class="timeline-date">2026 Fall</span>
                 <div>
-                  <h3>Ph.D. in Computer Science</h3>
-                  <p style="color: var(--ink); font-weight: 600; margin-bottom: 4px;">The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)</p>
+                  <h2>Ph.D. in Computer Science</h2>
+                  <p>The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)</p>
                 </div>
               </div>
               <div class="timeline-item">
                 <span class="timeline-date">2022.09 - 2026.07</span>
                 <div>
-                  <h3>B.Sc. in Economics and Statistics</h3>
-                  <p style="color: var(--ink); font-weight: 600; margin-bottom: 4px;">Dongbei University of Finance and Economics</p>
-                  <p style="font-size: 0.95rem; color: var(--muted);">Dalian, China · GPA: 4.42 / 5.0 · Rank: 1 / 60</p>
+                  <h2>B.Sc. in Economics and Statistics</h2>
+                  <p>Dongbei University of Finance and Economics, Dalian, China</p>
+                  <p>GPA: 4.42/5.0 · Rank: 1/60</p>
                 </div>
               </div>
             </div>
           </div>
         </section>
 
-        <!-- Services Section -->
-        <section id="services" class="section-block">
-          <div class="section-heading">
-            <p class="section-kicker">Services</p>
-            <h2>Academic & Social Contributions</h2>
+        <section id="experience" class="section-grid">
+          <div class="section-label">
+            <p>Work Experience</p>
           </div>
-          <div class="meta-grid" style="padding-top: 0;">
-            <article class="meta-card" style="margin: 0; padding: 28px;">
-              <p class="eyebrow" style="margin-bottom: 12px; color: var(--sage);">Academic Services</p>
-              <div class="service-block">
-                <h3>Journal Reviewer</h3>
-                <p>Applied Energy</p>
-                <p>IEEE Transactions on Sustainable Energy</p>
-              </div>
-            </article>
-
-            <article class="meta-card" style="margin: 0; padding: 28px;">
-              <p class="eyebrow" style="margin-bottom: 12px; color: var(--rust);">Social Services</p>
-              <div class="timeline" style="gap: 12px;">
+          <div class="section-content">
+            <div class="info-card">
+              <div class="timeline-item">
+                <span class="timeline-date">Sep 2024 - Present</span>
                 <div>
-                  <h3 style="font-size: 1.35rem; margin-bottom: 4px;">Vice President</h3>
-                  <p style="color: var(--ink); font-weight: 600; margin-bottom: 2px;">Yixing Association</p>
-                  <p style="font-size: 0.88rem; color: var(--rust); font-weight: 700; margin-bottom: 4px;">Sep 2023 -- Jul 2026 · Dalian, China</p>
-                  <p style="font-size: 0.95rem; line-height: 1.4; color: var(--muted);">Organized and managed innovation and entrepreneurship projects.</p>
+                  <h2>Research Assistant</h2>
+                  <p>School of Data Science, The Chinese University of Hong Kong, Shenzhen</p>
+                  <p>Shenzhen, China</p>
                 </div>
               </div>
-            </article>
+              <div class="timeline-item">
+                <span class="timeline-date">Aug 2024 - Sep 2024</span>
+                <div>
+                  <h2>Visiting Student</h2>
+                  <p>Medical Artificial Intelligence Lab, Westlake University</p>
+                  <p>Hangzhou, China</p>
+                </div>
+              </div>
+              <div class="timeline-item">
+                <span class="timeline-date">Sep 2023 - Jun 2025</span>
+                <div>
+                  <h2>Team Member</h2>
+                  <p>
+                    Key Laboratory of Big Data Management, Optimization and Decision
+                    <a class="inline-link" href="https://datalab.dufe.edu.cn/">[Website]</a>
+                  </p>
+                  <p>Dalian, Liaoning, China</p>
+                  <p>Developed the bionic robot real-time dialogue system.</p>
+                </div>
+              </div>
+            </div>
           </div>
         </section>
 
-        <!-- Honors & Awards Section -->
-        <section id="awards" class="section-block">
-          <div class="section-heading">
-            <p class="section-kicker">Honors & Awards</p>
-            <h2>Academic Excellence & Competition Success</h2>
+        <section id="services" class="section-grid">
+          <div class="section-label">
+            <p>Services</p>
           </div>
-          <div class="meta-grid" style="padding-top: 0; grid-template-columns: 1.15fr 0.85fr;">
-            <article class="meta-card" style="margin: 0; padding: 28px;">
-              <p class="eyebrow" style="margin-bottom: 12px; color: var(--rust);">Competition Awards</p>
-              <div class="mini-list" style="gap: 14px;">
+          <div class="section-content dual-stack">
+            <div class="info-card">
+              <h2>Academic Services</h2>
+              <div class="service-list">
+                <p>Reviewer, Applied Energy</p>
+                <p>Reviewer, IEEE Transactions on Sustainable Energy</p>
+              </div>
+            </div>
+            <div class="info-card">
+              <h2>Social Services</h2>
+              <div class="timeline-item service-item">
+                <span class="timeline-date">Sep 2023 - Jul 2026</span>
                 <div>
-                  <span>National First Prize</span>
-                  <p>China Undergraduate Mathematical Contest in Modeling (Team Leader)</p>
+                  <p class="service-role">Vice President</p>
+                  <p>Yixing Association</p>
+                  <p>Dalian, Liaoning, China</p>
+                  <p>Organized and managed innovation and entrepreneurship projects.</p>
                 </div>
-                <div>
-                  <span>M Award (Meritorious Winner)</span>
-                  <p>Mathematical Contest in Modeling (MCM) (Team Leader)</p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section id="awards" class="section-grid">
+          <div class="section-label">
+            <p>Honors &amp; Awards</p>
+          </div>
+          <div class="section-content dual-stack">
+            <div class="info-card">
+              <h2>Competition Awards</h2>
+              <ul class="award-list">
+                <li><strong>National First Prize</strong>, China Undergraduate Mathematical Contest in Modeling (Team Leader)</li>
+                <li><strong>M Award</strong>, Mathematical Contest in Modeling (MCM) (Team Leader)</li>
+                <li><strong>National First Prize</strong>, National Undergraduate Statistical Modeling Competition (Team Leader)</li>
+                <li><strong>National Third Prize</strong>, China International College Students' "Internet+" Innovation Competition</li>
+                <li><strong>National Project Grant</strong>, College Student Innovation and Entrepreneurship Project</li>
+                <li><strong>Third Prize</strong>, Challenge Cup Liaoning Province College Student Entrepreneurship Plan Contest</li>
+              </ul>
+            </div>
+            <div class="info-card">
+              <h2>Scholarships</h2>
+              <ul class="award-list">
+                <li><strong>2024 National Scholarship</strong></li>
+                <li><strong>2023 National Inspirational Scholarship</strong></li>
+                <li><strong>First-Class Comprehensive Scholarship from University</strong></li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <section id="publications" class="section-grid">
+          <div class="section-label">
+            <p>Selected Publications</p>
+          </div>
+          <div class="section-content">
+            <article class="paper-item">
+              <a class="paper-thumb" href="https://doi.org/10.1016/j.apenergy.2025.125525">
+                <img
+                  src="assets/img/papers/pv-weather-correction.png"
+                  alt="Main figure for the PV forecasting paper"
+                >
+              </a>
+              <div class="paper-copy">
+                <div class="paper-meta">
+                  <span>Applied Energy</span>
+                  <span>2025</span>
                 </div>
-                <div>
-                  <span>National First Prize</span>
-                  <p>National Undergraduate Statistical Modeling Competition (Team Leader)</p>
-                </div>
-                <div>
-                  <span>National First Prize</span>
-                  <p>Oriental Fortune Cup National Financial Challenge</p>
+                <h2>Enhancing PV Power Forecasting Accuracy through Nonlinear Weather Correction Based on Multi-Task Learning</h2>
+                <p class="citation">
+                  Zhirui Tian, <strong>Yujie Chen*</strong> (co-first author), and
+                  Guangyu Wang. <em>Applied Energy</em>, 386:125525, 2025.
+                </p>
+                <div class="paper-links">
+                  <a href="https://doi.org/10.1016/j.apenergy.2025.125525">DOI</a>
                 </div>
               </div>
             </article>
 
-            <article class="meta-card" style="margin: 0; padding: 28px;">
-              <p class="eyebrow" style="margin-bottom: 12px; color: var(--gold);">Scholarships</p>
-              <div class="mini-list" style="gap: 14px;">
-                <div>
-                  <span>2024 National Scholarship</span>
-                  <p>Highest national honor for undergraduate students in China</p>
+            <article class="paper-item">
+              <a class="paper-thumb" href="https://doi.org/10.1016/j.asoc.2025.112996">
+                <img
+                  src="assets/img/papers/crude-oil-forecasting.jpg"
+                  alt="Main figure for the crude oil forecasting paper"
+                >
+              </a>
+              <div class="paper-copy">
+                <div class="paper-meta">
+                  <span>Applied Soft Computing</span>
+                  <span>2025</span>
                 </div>
-                <div>
-                  <span>2023 National Inspirational Scholarship</span>
-                  <p>Recognizing exceptional performance and perseverance</p>
+                <h2>A Crude Oil Price Forecasting Framework Based on Constraint Guarantee and Pareto Front Shrinking Strategy</h2>
+                <p class="citation">
+                  <strong>Yujie Chen</strong> and Zhirui Tian*. <em>Applied Soft
+                  Computing</em>, 112996, 2025.
+                </p>
+                <div class="paper-links">
+                  <a href="https://doi.org/10.1016/j.asoc.2025.112996">DOI</a>
                 </div>
-                <div>
-                  <span>First-Class Comprehensive Scholarship</span>
-                  <p>Dongbei University of Finance and Economics</p>
+              </div>
+            </article>
+
+            <article class="paper-item">
+              <a class="paper-thumb pearl-thumb" href="https://doi.org/10.1109/PESIM67009.2026.11438881">
+                <img
+                  src="assets/img/papers/pearl-intro-photo.png"
+                  alt="Introduction figure for the PEARL paper"
+                >
+              </a>
+              <div class="paper-copy">
+                <div class="paper-meta">
+                  <span>IEEE PES International Meeting</span>
+                  <span>2026</span>
+                </div>
+                <h2>PEARL: A Physics-Enhanced Adaptive Residual Learning Framework for PV Modeling</h2>
+                <p class="citation">
+                  Yikai Lu, <strong>Yujie Chen</strong>, and Tongxin Li.
+                  <em>2026 IEEE PES International Meeting (PES IM)</em>, pp. 1-5, 2026.
+                </p>
+                <div class="paper-links">
+                  <a href="https://doi.org/10.1109/PESIM67009.2026.11438881">DOI</a>
+                </div>
+              </div>
+            </article>
+
+            <article class="paper-item">
+              <div class="paper-thumb">
+                <img
+                  src="assets/img/papers/prism-llm-hallucinations.png"
+                  alt="Introduction figure for the PRISM paper"
+                >
+              </div>
+              <div class="paper-copy">
+                <div class="paper-meta">
+                  <span>ACL Main Conference</span>
+                  <span>2026</span>
+                </div>
+                <h2>PRISM: Probing Reasoning, Instruction, and Source Memory in LLM Hallucinations</h2>
+                <p class="citation">
+                  Yuhe Wu, Guangyu Wang, Yuran Chen, Jiatong Zhang, Yutong Zhang,
+                  <strong>Yujie Chen</strong>, Jiaming Shang, Guang Zhang, and Zhuang Liu.
+                  <em>ACL 2026 Main Conference</em>, 2026.
+                </p>
+              </div>
+            </article>
+
+            <article class="paper-item">
+              <a class="paper-thumb" href="https://arxiv.org/abs/2602.10071">
+                <img
+                  src="assets/img/papers/electricity-price-review.png"
+                  alt="Main figure for the electricity price forecasting review"
+                >
+              </a>
+              <div class="paper-copy">
+                <div class="paper-meta">
+                  <span>European Energy Market</span>
+                  <span>2026</span>
+                </div>
+                <h2>Deep Learning for Electricity Price Forecasting: A Review of Day-Ahead, Intraday, and Balancing Electricity Markets</h2>
+                <p class="citation">
+                  Runyao Yu, Derek W. Bunn, Julia Lin, Jochen Stiasny, Fabian
+                  Leimgruber, Tara Esterl, Yuchen Tao, Lianlian Qi,
+                  <strong>Yujie Chen</strong>, Wentao Wang, et al.
+                  <em>EEM 2026</em>, accepted, indexing pending.
+                </p>
+                <div class="paper-links">
+                  <a href="https://arxiv.org/abs/2602.10071">arXiv</a>
                 </div>
               </div>
             </article>
@@ -412,7 +308,7 @@
       </main>
 
       <footer class="site-footer">
-        <p>Yujie Chen · Clean static academic homepage.</p>
+        <p>Yujie Chen · Static academic homepage</p>
         <a href="#top">Back to top</a>
       </footer>
     </div>
